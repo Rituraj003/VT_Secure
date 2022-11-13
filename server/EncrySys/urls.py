@@ -1,7 +1,8 @@
 from django.contrib import admin
 from django.urls import path
-from .views import EncryptView
+from . import views
 
 urlpatterns=[
-    path('',EncryptView.as_view(),name='encrypt_view')
+    path('', views.encrypt_view ,name='encrypt_view'),
+    path('/decrypt',views.decrypt_view, name="decrypt_view")
 ]
