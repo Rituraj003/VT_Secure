@@ -1,0 +1,83 @@
+{
+  "build": "h1a8c8d9_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/Users/rituraj/opt/miniconda3/pkgs/libdeflate-1.14-h1a8c8d9_0",
+  "features": "",
+  "files": [
+    "bin/libdeflate-gunzip",
+    "bin/libdeflate-gzip",
+    "include/libdeflate.h",
+    "lib/libdeflate.0.dylib",
+    "lib/libdeflate.dylib",
+    "lib/pkgconfig/libdeflate.pc"
+  ],
+  "fn": "libdeflate-1.14-h1a8c8d9_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/rituraj/opt/miniconda3/pkgs/libdeflate-1.14-h1a8c8d9_0",
+    "type": 1
+  },
+  "md5": "cb64374f9f7ad86b6194e294c56e06a5",
+  "name": "libdeflate",
+  "package_tarball_full_path": "/Users/rituraj/opt/miniconda3/pkgs/libdeflate-1.14-h1a8c8d9_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/libdeflate-gunzip",
+        "path_type": "hardlink",
+        "sha256": "3e441cb1ca4ad264477d5c2e3710a4ef73255f1d8ba01a80e2667b8c5bc4e134",
+        "sha256_in_prefix": "3e441cb1ca4ad264477d5c2e3710a4ef73255f1d8ba01a80e2667b8c5bc4e134",
+        "size_in_bytes": 106144
+      },
+      {
+        "_path": "bin/libdeflate-gzip",
+        "path_type": "hardlink",
+        "sha256": "be91f65a31edb094f6cac07bd5f4dd2bfa62f05cae53a797626d3fb82401fca7",
+        "sha256_in_prefix": "be91f65a31edb094f6cac07bd5f4dd2bfa62f05cae53a797626d3fb82401fca7",
+        "size_in_bytes": 106128
+      },
+      {
+        "_path": "include/libdeflate.h",
+        "path_type": "hardlink",
+        "sha256": "8cd2e028eac1497a3f80eb65ee17c5dbc361c15bca6446785d690c106d18d4ce",
+        "sha256_in_prefix": "8cd2e028eac1497a3f80eb65ee17c5dbc361c15bca6446785d690c106d18d4ce",
+        "size_in_bytes": 14944
+      },
+      {
+        "_path": "lib/libdeflate.0.dylib",
+        "path_type": "hardlink",
+        "sha256": "bfcc1d8bb24969057c221d73e1a2903f507122771654e216d4ea9388ed9d7dfe",
+        "sha256_in_prefix": "bfcc1d8bb24969057c221d73e1a2903f507122771654e216d4ea9388ed9d7dfe",
+        "size_in_bytes": 87504
+      },
+      {
+        "_path": "lib/libdeflate.dylib",
+        "path_type": "softlink",
+        "sha256": "bfcc1d8bb24969057c221d73e1a2903f507122771654e216d4ea9388ed9d7dfe",
+        "size_in_bytes": 87504
+      },
+      {
+        "_path": "lib/pkgconfig/libdeflate.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/libdeflate_1662888448115/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "7ca4f071549ac9ca9e595a3de59b3a0d22c773a66e1896f455f11b3f799d7954",
+        "sha256_in_prefix": "e62ee11d5f7de1af4b84d939080ae11fdbbc2d4016a6b17f9c7ec9ec1cb55721",
+        "size_in_bytes": 971
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2adff34121246f809250417a65036cacd3b7929929df51feda9ff90d5156750b",
+  "size": 61426,
+  "subdir": "osx-arm64",
+  "timestamp": 1662888596416,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libdeflate-1.14-h1a8c8d9_0.tar.bz2",
+  "version": "1.14"
+}

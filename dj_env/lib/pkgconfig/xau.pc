@@ -1,0 +1,11 @@
+prefix=/Users/rituraj/Desktop/python_files/VT_Secure/dj_env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Xau
+Description: X authorization file management libary
+Version: 1.0.9
+Requires: xproto
+Cflags: -I${includedir}
+Libs: -L${libdir} -lXau

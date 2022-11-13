@@ -1,0 +1,10 @@
+prefix=/Users/rituraj/Desktop/python_files/VT_Secure/dj_env
+exec_prefix=${prefix}
+includedir=/Users/rituraj/Desktop/python_files/VT_Secure/dj_env/include
+libdir=/Users/rituraj/Desktop/python_files/VT_Secure/dj_env/lib
+
+Name: libdeflate
+Description: Fast implementation of DEFLATE, zlib, and gzip
+Version: 1.14
+Libs: -L${libdir} -ldeflate
+Cflags: -I${includedir}

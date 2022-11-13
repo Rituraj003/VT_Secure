@@ -1,4 +1,4 @@
-#!/Users/rituraj/Desktop/python_files/VT_Secure/dj_env/bin/python
+#!/Users/rituraj/Desktop/python_files/VT_Secure/dj_env/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -1,0 +1,36 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "nbconvert-core 7.2.4 pyhd8ed1ab_0",
+    "pandoc",
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "/Users/rituraj/opt/miniconda3/pkgs/nbconvert-pandoc-7.2.4-pyhd8ed1ab_0",
+  "features": "",
+  "files": [],
+  "fn": "nbconvert-pandoc-7.2.4-pyhd8ed1ab_0.tar.bz2",
+  "link": {
+    "source": "/Users/rituraj/opt/miniconda3/pkgs/nbconvert-pandoc-7.2.4-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "ccb1679d3a83ddbf5dad2f08c417c8ad",
+  "name": "nbconvert-pandoc",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/rituraj/opt/miniconda3/pkgs/nbconvert-pandoc-7.2.4-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bc9dafc8ae063aa17b85f58610117ca5fd654c7d741b6657bd7c96ee87428dd4",
+  "size": 5373,
+  "subdir": "noarch",
+  "timestamp": 1668035067027,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/nbconvert-pandoc-7.2.4-pyhd8ed1ab_0.tar.bz2",
+  "version": "7.2.4"
+}

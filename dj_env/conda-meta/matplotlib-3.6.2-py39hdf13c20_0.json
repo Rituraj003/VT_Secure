@@ -1,0 +1,37 @@
+{
+  "build": "py39hdf13c20_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.6.2,<3.6.3.0a0",
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39",
+    "tornado >=5"
+  ],
+  "extracted_package_dir": "/Users/rituraj/opt/miniconda3/pkgs/matplotlib-3.6.2-py39hdf13c20_0",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.6.2-py39hdf13c20_0.tar.bz2",
+  "license": "LicenseRef-PSF-2.0 and CC0-1.0",
+  "license_family": "PSF",
+  "link": {
+    "source": "/Users/rituraj/opt/miniconda3/pkgs/matplotlib-3.6.2-py39hdf13c20_0",
+    "type": 1
+  },
+  "md5": "7f9eb2ade62f637832e22bd8c16d4b6b",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/Users/rituraj/opt/miniconda3/pkgs/matplotlib-3.6.2-py39hdf13c20_0.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "b83fd23952ac4cef1b74e6b64c514c44202545861d30838591eae79fd8c2bb60",
+  "size": 7382,
+  "subdir": "osx-arm64",
+  "timestamp": 1667505523349,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/matplotlib-3.6.2-py39hdf13c20_0.tar.bz2",
+  "version": "3.6.2"
+}

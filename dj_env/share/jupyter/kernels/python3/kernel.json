@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/rituraj/Desktop/python_files/VT_Secure/dj_env/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
